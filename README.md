@@ -1,1 +1,3 @@
 # MomentEstimationSV
+
+This is a project for estimating SV models by MM. Many numerical problems occur...
